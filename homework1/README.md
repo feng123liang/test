@@ -4,13 +4,13 @@
 
 
 
-一些开始指引：（可用Tab补全）
-在/homework1依次输入指令： 
-mkdir build
-cd build
-cmake ..
-make
-./lightBarMatching01
+一些开始指引：（可用Tab补全） \n
+在/homework1依次输入指令： \n
+mkdir build \n
+cd build \n
+cmake .. \n
+make \n
+./lightBarMatching01 \n
 即可运行初始版本
 
 一些远程连接指引：（待完善）
